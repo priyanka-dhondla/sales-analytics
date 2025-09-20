@@ -1,0 +1,3602 @@
+[
+  {
+    "_id": "ub02vabfnmfrvbrj4",
+    "name": "Product 1",
+    "description": "Description for product 1",
+    "category": "Sports",
+    "price": 43,
+    "costPrice": 179,
+    "stockQuantity": 984,
+    "sku": "SKU-001",
+    "brand": "Brand 1",
+    "tags": [
+      "tag1",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.896Z",
+    "updatedAt": "2025-09-20T06:09:08.896Z"
+  },
+  {
+    "_id": "vykyyvog8mfrvbrj5",
+    "name": "Product 2",
+    "description": "Description for product 2",
+    "category": "Home & Garden",
+    "price": 459,
+    "costPrice": 143,
+    "stockQuantity": 692,
+    "sku": "SKU-002",
+    "brand": "Brand 1",
+    "tags": [
+      "tag2",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.897Z",
+    "updatedAt": "2025-09-20T06:09:08.897Z"
+  },
+  {
+    "_id": "3q42vgejkmfrvbrj6",
+    "name": "Product 3",
+    "description": "Description for product 3",
+    "category": "Home & Garden",
+    "price": 452,
+    "costPrice": 84,
+    "stockQuantity": 53,
+    "sku": "SKU-003",
+    "brand": "Brand 1",
+    "tags": [
+      "tag3",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.898Z",
+    "updatedAt": "2025-09-20T06:09:08.898Z"
+  },
+  {
+    "_id": "qbp8j6vxamfrvbrj7",
+    "name": "Product 4",
+    "description": "Description for product 4",
+    "category": "Sports",
+    "price": 457,
+    "costPrice": 201,
+    "stockQuantity": 911,
+    "sku": "SKU-004",
+    "brand": "Brand 1",
+    "tags": [
+      "tag4",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.899Z",
+    "updatedAt": "2025-09-20T06:09:08.899Z"
+  },
+  {
+    "_id": "51z5whz7qmfrvbrj7",
+    "name": "Product 5",
+    "description": "Description for product 5",
+    "category": "Clothing",
+    "price": 216,
+    "costPrice": 185,
+    "stockQuantity": 694,
+    "sku": "SKU-005",
+    "brand": "Brand 1",
+    "tags": [
+      "tag5",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.899Z",
+    "updatedAt": "2025-09-20T06:09:08.899Z"
+  },
+  {
+    "_id": "kgkjh1zc2mfrvbrj8",
+    "name": "Product 6",
+    "description": "Description for product 6",
+    "category": "Clothing",
+    "price": 246,
+    "costPrice": 37,
+    "stockQuantity": 997,
+    "sku": "SKU-006",
+    "brand": "Brand 1",
+    "tags": [
+      "tag6",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.900Z",
+    "updatedAt": "2025-09-20T06:09:08.900Z"
+  },
+  {
+    "_id": "4egq61qfnmfrvbrj8",
+    "name": "Product 7",
+    "description": "Description for product 7",
+    "category": "Beauty",
+    "price": 289,
+    "costPrice": 167,
+    "stockQuantity": 142,
+    "sku": "SKU-007",
+    "brand": "Brand 1",
+    "tags": [
+      "tag7",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.900Z",
+    "updatedAt": "2025-09-20T06:09:08.900Z"
+  },
+  {
+    "_id": "ir2xleplcmfrvbrj8",
+    "name": "Product 8",
+    "description": "Description for product 8",
+    "category": "Automotive",
+    "price": 483,
+    "costPrice": 157,
+    "stockQuantity": 282,
+    "sku": "SKU-008",
+    "brand": "Brand 1",
+    "tags": [
+      "tag8",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.900Z",
+    "updatedAt": "2025-09-20T06:09:08.900Z"
+  },
+  {
+    "_id": "mgkpbkro5mfrvbrj9",
+    "name": "Product 9",
+    "description": "Description for product 9",
+    "category": "Home & Garden",
+    "price": 66,
+    "costPrice": 112,
+    "stockQuantity": 725,
+    "sku": "SKU-009",
+    "brand": "Brand 1",
+    "tags": [
+      "tag9",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.901Z",
+    "updatedAt": "2025-09-20T06:09:08.901Z"
+  },
+  {
+    "_id": "6ctxxlt2mmfrvbrja",
+    "name": "Product 10",
+    "description": "Description for product 10",
+    "category": "Home & Garden",
+    "price": 15,
+    "costPrice": 124,
+    "stockQuantity": 814,
+    "sku": "SKU-010",
+    "brand": "Brand 1",
+    "tags": [
+      "tag10",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.902Z",
+    "updatedAt": "2025-09-20T06:09:08.902Z"
+  },
+  {
+    "_id": "kgkf37q95mfrvbrjb",
+    "name": "Product 11",
+    "description": "Description for product 11",
+    "category": "Electronics",
+    "price": 198,
+    "costPrice": 15,
+    "stockQuantity": 320,
+    "sku": "SKU-011",
+    "brand": "Brand 2",
+    "tags": [
+      "tag11",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.903Z",
+    "updatedAt": "2025-09-20T06:09:08.903Z"
+  },
+  {
+    "_id": "ofb2nnncpmfrvbrjb",
+    "name": "Product 12",
+    "description": "Description for product 12",
+    "category": "Electronics",
+    "price": 387,
+    "costPrice": 104,
+    "stockQuantity": 647,
+    "sku": "SKU-012",
+    "brand": "Brand 2",
+    "tags": [
+      "tag12",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.903Z",
+    "updatedAt": "2025-09-20T06:09:08.903Z"
+  },
+  {
+    "_id": "7sn91ito1mfrvbrjb",
+    "name": "Product 13",
+    "description": "Description for product 13",
+    "category": "Electronics",
+    "price": 295,
+    "costPrice": 157,
+    "stockQuantity": 428,
+    "sku": "SKU-013",
+    "brand": "Brand 2",
+    "tags": [
+      "tag13",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.903Z",
+    "updatedAt": "2025-09-20T06:09:08.903Z"
+  },
+  {
+    "_id": "h44tsqpjxmfrvbrjc",
+    "name": "Product 14",
+    "description": "Description for product 14",
+    "category": "Health",
+    "price": 300,
+    "costPrice": 17,
+    "stockQuantity": 778,
+    "sku": "SKU-014",
+    "brand": "Brand 2",
+    "tags": [
+      "tag14",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.904Z",
+    "updatedAt": "2025-09-20T06:09:08.904Z"
+  },
+  {
+    "_id": "vufgwjabfmfrvbrjc",
+    "name": "Product 15",
+    "description": "Description for product 15",
+    "category": "Books",
+    "price": 77,
+    "costPrice": 119,
+    "stockQuantity": 1008,
+    "sku": "SKU-015",
+    "brand": "Brand 2",
+    "tags": [
+      "tag15",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.904Z",
+    "updatedAt": "2025-09-20T06:09:08.904Z"
+  },
+  {
+    "_id": "g8jnfg3d1mfrvbrjc",
+    "name": "Product 16",
+    "description": "Description for product 16",
+    "category": "Books",
+    "price": 221,
+    "costPrice": 160,
+    "stockQuantity": 254,
+    "sku": "SKU-016",
+    "brand": "Brand 2",
+    "tags": [
+      "tag16",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.904Z",
+    "updatedAt": "2025-09-20T06:09:08.904Z"
+  },
+  {
+    "_id": "jqo614pa8mfrvbrjd",
+    "name": "Product 17",
+    "description": "Description for product 17",
+    "category": "Health",
+    "price": 460,
+    "costPrice": 28,
+    "stockQuantity": 992,
+    "sku": "SKU-017",
+    "brand": "Brand 2",
+    "tags": [
+      "tag17",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.905Z",
+    "updatedAt": "2025-09-20T06:09:08.905Z"
+  },
+  {
+    "_id": "gp0q8hr1ymfrvbrjd",
+    "name": "Product 18",
+    "description": "Description for product 18",
+    "category": "Home & Garden",
+    "price": 122,
+    "costPrice": 98,
+    "stockQuantity": 539,
+    "sku": "SKU-018",
+    "brand": "Brand 2",
+    "tags": [
+      "tag18",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.905Z",
+    "updatedAt": "2025-09-20T06:09:08.905Z"
+  },
+  {
+    "_id": "6kx22qaw3mfrvbrje",
+    "name": "Product 19",
+    "description": "Description for product 19",
+    "category": "Electronics",
+    "price": 152,
+    "costPrice": 93,
+    "stockQuantity": 387,
+    "sku": "SKU-019",
+    "brand": "Brand 2",
+    "tags": [
+      "tag19",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.906Z",
+    "updatedAt": "2025-09-20T06:09:08.906Z"
+  },
+  {
+    "_id": "b7zxjy1momfrvbrjg",
+    "name": "Product 20",
+    "description": "Description for product 20",
+    "category": "Clothing",
+    "price": 449,
+    "costPrice": 67,
+    "stockQuantity": 537,
+    "sku": "SKU-020",
+    "brand": "Brand 2",
+    "tags": [
+      "tag20",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.908Z",
+    "updatedAt": "2025-09-20T06:09:08.908Z"
+  },
+  {
+    "_id": "ni3aplbormfrvbrjg",
+    "name": "Product 21",
+    "description": "Description for product 21",
+    "category": "Automotive",
+    "price": 96,
+    "costPrice": 104,
+    "stockQuantity": 779,
+    "sku": "SKU-021",
+    "brand": "Brand 3",
+    "tags": [
+      "tag21",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.908Z",
+    "updatedAt": "2025-09-20T06:09:08.908Z"
+  },
+  {
+    "_id": "obiwfl69kmfrvbrjh",
+    "name": "Product 22",
+    "description": "Description for product 22",
+    "category": "Clothing",
+    "price": 329,
+    "costPrice": 76,
+    "stockQuantity": 591,
+    "sku": "SKU-022",
+    "brand": "Brand 3",
+    "tags": [
+      "tag22",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.909Z",
+    "updatedAt": "2025-09-20T06:09:08.909Z"
+  },
+  {
+    "_id": "3fgzp4hgkmfrvbrjh",
+    "name": "Product 23",
+    "description": "Description for product 23",
+    "category": "Automotive",
+    "price": 242,
+    "costPrice": 146,
+    "stockQuantity": 1008,
+    "sku": "SKU-023",
+    "brand": "Brand 3",
+    "tags": [
+      "tag23",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.910Z",
+    "updatedAt": "2025-09-20T06:09:08.910Z"
+  },
+  {
+    "_id": "jw3nzp50umfrvbrji",
+    "name": "Product 24",
+    "description": "Description for product 24",
+    "category": "Beauty",
+    "price": 427,
+    "costPrice": 68,
+    "stockQuantity": 151,
+    "sku": "SKU-024",
+    "brand": "Brand 3",
+    "tags": [
+      "tag24",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.910Z",
+    "updatedAt": "2025-09-20T06:09:08.910Z"
+  },
+  {
+    "_id": "eoeuzs81smfrvbrji",
+    "name": "Product 25",
+    "description": "Description for product 25",
+    "category": "Automotive",
+    "price": 494,
+    "costPrice": 41,
+    "stockQuantity": 911,
+    "sku": "SKU-025",
+    "brand": "Brand 3",
+    "tags": [
+      "tag25",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.910Z",
+    "updatedAt": "2025-09-20T06:09:08.910Z"
+  },
+  {
+    "_id": "f1u9qgr5bmfrvbrji",
+    "name": "Product 26",
+    "description": "Description for product 26",
+    "category": "Clothing",
+    "price": 440,
+    "costPrice": 53,
+    "stockQuantity": 718,
+    "sku": "SKU-026",
+    "brand": "Brand 3",
+    "tags": [
+      "tag26",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.910Z",
+    "updatedAt": "2025-09-20T06:09:08.910Z"
+  },
+  {
+    "_id": "raevklw55mfrvbrjj",
+    "name": "Product 27",
+    "description": "Description for product 27",
+    "category": "Beauty",
+    "price": 215,
+    "costPrice": 129,
+    "stockQuantity": 298,
+    "sku": "SKU-027",
+    "brand": "Brand 3",
+    "tags": [
+      "tag27",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.911Z",
+    "updatedAt": "2025-09-20T06:09:08.911Z"
+  },
+  {
+    "_id": "quxk0e1p1mfrvbrjj",
+    "name": "Product 28",
+    "description": "Description for product 28",
+    "category": "Beauty",
+    "price": 425,
+    "costPrice": 68,
+    "stockQuantity": 622,
+    "sku": "SKU-028",
+    "brand": "Brand 3",
+    "tags": [
+      "tag28",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.911Z",
+    "updatedAt": "2025-09-20T06:09:08.911Z"
+  },
+  {
+    "_id": "0wds8b2fcmfrvbrjj",
+    "name": "Product 29",
+    "description": "Description for product 29",
+    "category": "Books",
+    "price": 418,
+    "costPrice": 171,
+    "stockQuantity": 380,
+    "sku": "SKU-029",
+    "brand": "Brand 3",
+    "tags": [
+      "tag29",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.911Z",
+    "updatedAt": "2025-09-20T06:09:08.911Z"
+  },
+  {
+    "_id": "7em3fcn08mfrvbrjj",
+    "name": "Product 30",
+    "description": "Description for product 30",
+    "category": "Electronics",
+    "price": 384,
+    "costPrice": 110,
+    "stockQuantity": 715,
+    "sku": "SKU-030",
+    "brand": "Brand 3",
+    "tags": [
+      "tag30",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.911Z",
+    "updatedAt": "2025-09-20T06:09:08.911Z"
+  },
+  {
+    "_id": "bxx0p9rwemfrvbrjk",
+    "name": "Product 31",
+    "description": "Description for product 31",
+    "category": "Electronics",
+    "price": 459,
+    "costPrice": 133,
+    "stockQuantity": 850,
+    "sku": "SKU-031",
+    "brand": "Brand 4",
+    "tags": [
+      "tag31",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.912Z",
+    "updatedAt": "2025-09-20T06:09:08.912Z"
+  },
+  {
+    "_id": "49ijhujywmfrvbrjl",
+    "name": "Product 32",
+    "description": "Description for product 32",
+    "category": "Sports",
+    "price": 88,
+    "costPrice": 115,
+    "stockQuantity": 136,
+    "sku": "SKU-032",
+    "brand": "Brand 4",
+    "tags": [
+      "tag32",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.913Z",
+    "updatedAt": "2025-09-20T06:09:08.913Z"
+  },
+  {
+    "_id": "nmiw7oo46mfrvbrjl",
+    "name": "Product 33",
+    "description": "Description for product 33",
+    "category": "Automotive",
+    "price": 256,
+    "costPrice": 113,
+    "stockQuantity": 217,
+    "sku": "SKU-033",
+    "brand": "Brand 4",
+    "tags": [
+      "tag33",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.913Z",
+    "updatedAt": "2025-09-20T06:09:08.913Z"
+  },
+  {
+    "_id": "8bhb9qaymmfrvbrjm",
+    "name": "Product 34",
+    "description": "Description for product 34",
+    "category": "Clothing",
+    "price": 272,
+    "costPrice": 170,
+    "stockQuantity": 909,
+    "sku": "SKU-034",
+    "brand": "Brand 4",
+    "tags": [
+      "tag34",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.914Z",
+    "updatedAt": "2025-09-20T06:09:08.914Z"
+  },
+  {
+    "_id": "qxv1id6opmfrvbrjm",
+    "name": "Product 35",
+    "description": "Description for product 35",
+    "category": "Books",
+    "price": 270,
+    "costPrice": 74,
+    "stockQuantity": 13,
+    "sku": "SKU-035",
+    "brand": "Brand 4",
+    "tags": [
+      "tag35",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.914Z",
+    "updatedAt": "2025-09-20T06:09:08.914Z"
+  },
+  {
+    "_id": "bdl7o9nxxmfrvbrjm",
+    "name": "Product 36",
+    "description": "Description for product 36",
+    "category": "Beauty",
+    "price": 124,
+    "costPrice": 117,
+    "stockQuantity": 1004,
+    "sku": "SKU-036",
+    "brand": "Brand 4",
+    "tags": [
+      "tag36",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.914Z",
+    "updatedAt": "2025-09-20T06:09:08.914Z"
+  },
+  {
+    "_id": "48mlhlhcymfrvbrjn",
+    "name": "Product 37",
+    "description": "Description for product 37",
+    "category": "Electronics",
+    "price": 69,
+    "costPrice": 81,
+    "stockQuantity": 194,
+    "sku": "SKU-037",
+    "brand": "Brand 4",
+    "tags": [
+      "tag37",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.915Z",
+    "updatedAt": "2025-09-20T06:09:08.915Z"
+  },
+  {
+    "_id": "w8ub63umumfrvbrjn",
+    "name": "Product 38",
+    "description": "Description for product 38",
+    "category": "Beauty",
+    "price": 78,
+    "costPrice": 121,
+    "stockQuantity": 347,
+    "sku": "SKU-038",
+    "brand": "Brand 4",
+    "tags": [
+      "tag38",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.915Z",
+    "updatedAt": "2025-09-20T06:09:08.915Z"
+  },
+  {
+    "_id": "vb8m5aryumfrvbrjn",
+    "name": "Product 39",
+    "description": "Description for product 39",
+    "category": "Books",
+    "price": 118,
+    "costPrice": 30,
+    "stockQuantity": 764,
+    "sku": "SKU-039",
+    "brand": "Brand 4",
+    "tags": [
+      "tag39",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.915Z",
+    "updatedAt": "2025-09-20T06:09:08.915Z"
+  },
+  {
+    "_id": "s3hawnfvvmfrvbrjo",
+    "name": "Product 40",
+    "description": "Description for product 40",
+    "category": "Books",
+    "price": 342,
+    "costPrice": 184,
+    "stockQuantity": 845,
+    "sku": "SKU-040",
+    "brand": "Brand 4",
+    "tags": [
+      "tag40",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.916Z",
+    "updatedAt": "2025-09-20T06:09:08.916Z"
+  },
+  {
+    "_id": "pngfkurx4mfrvbrjp",
+    "name": "Product 41",
+    "description": "Description for product 41",
+    "category": "Health",
+    "price": 46,
+    "costPrice": 139,
+    "stockQuantity": 335,
+    "sku": "SKU-041",
+    "brand": "Brand 5",
+    "tags": [
+      "tag41",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.917Z",
+    "updatedAt": "2025-09-20T06:09:08.917Z"
+  },
+  {
+    "_id": "rtzxsg41qmfrvbrjq",
+    "name": "Product 42",
+    "description": "Description for product 42",
+    "category": "Beauty",
+    "price": 187,
+    "costPrice": 87,
+    "stockQuantity": 308,
+    "sku": "SKU-042",
+    "brand": "Brand 5",
+    "tags": [
+      "tag42",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.918Z",
+    "updatedAt": "2025-09-20T06:09:08.918Z"
+  },
+  {
+    "_id": "ojzzqnhpgmfrvbrjr",
+    "name": "Product 43",
+    "description": "Description for product 43",
+    "category": "Electronics",
+    "price": 24,
+    "costPrice": 39,
+    "stockQuantity": 319,
+    "sku": "SKU-043",
+    "brand": "Brand 5",
+    "tags": [
+      "tag43",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.919Z",
+    "updatedAt": "2025-09-20T06:09:08.919Z"
+  },
+  {
+    "_id": "cwcqeano1mfrvbrjr",
+    "name": "Product 44",
+    "description": "Description for product 44",
+    "category": "Clothing",
+    "price": 65,
+    "costPrice": 91,
+    "stockQuantity": 515,
+    "sku": "SKU-044",
+    "brand": "Brand 5",
+    "tags": [
+      "tag44",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.919Z",
+    "updatedAt": "2025-09-20T06:09:08.919Z"
+  },
+  {
+    "_id": "f2pmtk65umfrvbrjt",
+    "name": "Product 45",
+    "description": "Description for product 45",
+    "category": "Beauty",
+    "price": 318,
+    "costPrice": 33,
+    "stockQuantity": 570,
+    "sku": "SKU-045",
+    "brand": "Brand 5",
+    "tags": [
+      "tag45",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.921Z",
+    "updatedAt": "2025-09-20T06:09:08.921Z"
+  },
+  {
+    "_id": "nfjx5vjepmfrvbrjt",
+    "name": "Product 46",
+    "description": "Description for product 46",
+    "category": "Health",
+    "price": 220,
+    "costPrice": 184,
+    "stockQuantity": 942,
+    "sku": "SKU-046",
+    "brand": "Brand 5",
+    "tags": [
+      "tag46",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.921Z",
+    "updatedAt": "2025-09-20T06:09:08.921Z"
+  },
+  {
+    "_id": "1hgehr510mfrvbrju",
+    "name": "Product 47",
+    "description": "Description for product 47",
+    "category": "Home & Garden",
+    "price": 270,
+    "costPrice": 16,
+    "stockQuantity": 938,
+    "sku": "SKU-047",
+    "brand": "Brand 5",
+    "tags": [
+      "tag47",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.922Z",
+    "updatedAt": "2025-09-20T06:09:08.922Z"
+  },
+  {
+    "_id": "ic7rw4s3kmfrvbrjv",
+    "name": "Product 48",
+    "description": "Description for product 48",
+    "category": "Health",
+    "price": 476,
+    "costPrice": 193,
+    "stockQuantity": 334,
+    "sku": "SKU-048",
+    "brand": "Brand 5",
+    "tags": [
+      "tag48",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.923Z",
+    "updatedAt": "2025-09-20T06:09:08.923Z"
+  },
+  {
+    "_id": "fm5g3dgg8mfrvbrjw",
+    "name": "Product 49",
+    "description": "Description for product 49",
+    "category": "Books",
+    "price": 379,
+    "costPrice": 197,
+    "stockQuantity": 785,
+    "sku": "SKU-049",
+    "brand": "Brand 5",
+    "tags": [
+      "tag49",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.924Z",
+    "updatedAt": "2025-09-20T06:09:08.924Z"
+  },
+  {
+    "_id": "zl9rvtf1wmfrvbrjx",
+    "name": "Product 50",
+    "description": "Description for product 50",
+    "category": "Electronics",
+    "price": 234,
+    "costPrice": 63,
+    "stockQuantity": 733,
+    "sku": "SKU-050",
+    "brand": "Brand 5",
+    "tags": [
+      "tag50",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.925Z",
+    "updatedAt": "2025-09-20T06:09:08.925Z"
+  },
+  {
+    "_id": "vok0o8lutmfrvbrjy",
+    "name": "Product 51",
+    "description": "Description for product 51",
+    "category": "Sports",
+    "price": 25,
+    "costPrice": 137,
+    "stockQuantity": 336,
+    "sku": "SKU-051",
+    "brand": "Brand 6",
+    "tags": [
+      "tag51",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.926Z",
+    "updatedAt": "2025-09-20T06:09:08.926Z"
+  },
+  {
+    "_id": "ijjq3jgu3mfrvbrjz",
+    "name": "Product 52",
+    "description": "Description for product 52",
+    "category": "Clothing",
+    "price": 378,
+    "costPrice": 158,
+    "stockQuantity": 148,
+    "sku": "SKU-052",
+    "brand": "Brand 6",
+    "tags": [
+      "tag52",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.927Z",
+    "updatedAt": "2025-09-20T06:09:08.927Z"
+  },
+  {
+    "_id": "gcp84zenjmfrvbrk0",
+    "name": "Product 53",
+    "description": "Description for product 53",
+    "category": "Health",
+    "price": 351,
+    "costPrice": 145,
+    "stockQuantity": 482,
+    "sku": "SKU-053",
+    "brand": "Brand 6",
+    "tags": [
+      "tag53",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.928Z",
+    "updatedAt": "2025-09-20T06:09:08.928Z"
+  },
+  {
+    "_id": "b7m1wyyrfmfrvbrk1",
+    "name": "Product 54",
+    "description": "Description for product 54",
+    "category": "Home & Garden",
+    "price": 348,
+    "costPrice": 76,
+    "stockQuantity": 810,
+    "sku": "SKU-054",
+    "brand": "Brand 6",
+    "tags": [
+      "tag54",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.929Z",
+    "updatedAt": "2025-09-20T06:09:08.929Z"
+  },
+  {
+    "_id": "aiy4lv9owmfrvbrk2",
+    "name": "Product 55",
+    "description": "Description for product 55",
+    "category": "Books",
+    "price": 429,
+    "costPrice": 152,
+    "stockQuantity": 987,
+    "sku": "SKU-055",
+    "brand": "Brand 6",
+    "tags": [
+      "tag55",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.930Z",
+    "updatedAt": "2025-09-20T06:09:08.930Z"
+  },
+  {
+    "_id": "vmleamdhsmfrvbrk2",
+    "name": "Product 56",
+    "description": "Description for product 56",
+    "category": "Beauty",
+    "price": 220,
+    "costPrice": 57,
+    "stockQuantity": 706,
+    "sku": "SKU-056",
+    "brand": "Brand 6",
+    "tags": [
+      "tag56",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.930Z",
+    "updatedAt": "2025-09-20T06:09:08.930Z"
+  },
+  {
+    "_id": "rgsltxn37mfrvbrk4",
+    "name": "Product 57",
+    "description": "Description for product 57",
+    "category": "Home & Garden",
+    "price": 196,
+    "costPrice": 44,
+    "stockQuantity": 605,
+    "sku": "SKU-057",
+    "brand": "Brand 6",
+    "tags": [
+      "tag57",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.932Z",
+    "updatedAt": "2025-09-20T06:09:08.932Z"
+  },
+  {
+    "_id": "pgayi8875mfrvbrk5",
+    "name": "Product 58",
+    "description": "Description for product 58",
+    "category": "Beauty",
+    "price": 66,
+    "costPrice": 180,
+    "stockQuantity": 87,
+    "sku": "SKU-058",
+    "brand": "Brand 6",
+    "tags": [
+      "tag58",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.933Z",
+    "updatedAt": "2025-09-20T06:09:08.933Z"
+  },
+  {
+    "_id": "9xbmjpnhrmfrvbrk5",
+    "name": "Product 59",
+    "description": "Description for product 59",
+    "category": "Beauty",
+    "price": 347,
+    "costPrice": 50,
+    "stockQuantity": 531,
+    "sku": "SKU-059",
+    "brand": "Brand 6",
+    "tags": [
+      "tag59",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.933Z",
+    "updatedAt": "2025-09-20T06:09:08.933Z"
+  },
+  {
+    "_id": "8exxz79gtmfrvbrk6",
+    "name": "Product 60",
+    "description": "Description for product 60",
+    "category": "Automotive",
+    "price": 332,
+    "costPrice": 82,
+    "stockQuantity": 570,
+    "sku": "SKU-060",
+    "brand": "Brand 6",
+    "tags": [
+      "tag60",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.934Z",
+    "updatedAt": "2025-09-20T06:09:08.934Z"
+  },
+  {
+    "_id": "8dpqoiap6mfrvbrk6",
+    "name": "Product 61",
+    "description": "Description for product 61",
+    "category": "Sports",
+    "price": 247,
+    "costPrice": 22,
+    "stockQuantity": 809,
+    "sku": "SKU-061",
+    "brand": "Brand 7",
+    "tags": [
+      "tag61",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.934Z",
+    "updatedAt": "2025-09-20T06:09:08.934Z"
+  },
+  {
+    "_id": "vncssyfu8mfrvbrk7",
+    "name": "Product 62",
+    "description": "Description for product 62",
+    "category": "Automotive",
+    "price": 385,
+    "costPrice": 83,
+    "stockQuantity": 662,
+    "sku": "SKU-062",
+    "brand": "Brand 7",
+    "tags": [
+      "tag62",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.935Z",
+    "updatedAt": "2025-09-20T06:09:08.935Z"
+  },
+  {
+    "_id": "vepbl366gmfrvbrk7",
+    "name": "Product 63",
+    "description": "Description for product 63",
+    "category": "Beauty",
+    "price": 20,
+    "costPrice": 144,
+    "stockQuantity": 653,
+    "sku": "SKU-063",
+    "brand": "Brand 7",
+    "tags": [
+      "tag63",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.935Z",
+    "updatedAt": "2025-09-20T06:09:08.935Z"
+  },
+  {
+    "_id": "bupwmpw9lmfrvbrk8",
+    "name": "Product 64",
+    "description": "Description for product 64",
+    "category": "Health",
+    "price": 238,
+    "costPrice": 129,
+    "stockQuantity": 304,
+    "sku": "SKU-064",
+    "brand": "Brand 7",
+    "tags": [
+      "tag64",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.936Z",
+    "updatedAt": "2025-09-20T06:09:08.936Z"
+  },
+  {
+    "_id": "dh2vmda86mfrvbrk9",
+    "name": "Product 65",
+    "description": "Description for product 65",
+    "category": "Books",
+    "price": 345,
+    "costPrice": 92,
+    "stockQuantity": 134,
+    "sku": "SKU-065",
+    "brand": "Brand 7",
+    "tags": [
+      "tag65",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.937Z",
+    "updatedAt": "2025-09-20T06:09:08.937Z"
+  },
+  {
+    "_id": "arezybo5ymfrvbrka",
+    "name": "Product 66",
+    "description": "Description for product 66",
+    "category": "Books",
+    "price": 423,
+    "costPrice": 156,
+    "stockQuantity": 899,
+    "sku": "SKU-066",
+    "brand": "Brand 7",
+    "tags": [
+      "tag66",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.938Z",
+    "updatedAt": "2025-09-20T06:09:08.938Z"
+  },
+  {
+    "_id": "d2aqpl5mimfrvbrka",
+    "name": "Product 67",
+    "description": "Description for product 67",
+    "category": "Electronics",
+    "price": 376,
+    "costPrice": 102,
+    "stockQuantity": 841,
+    "sku": "SKU-067",
+    "brand": "Brand 7",
+    "tags": [
+      "tag67",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.938Z",
+    "updatedAt": "2025-09-20T06:09:08.938Z"
+  },
+  {
+    "_id": "ua1rwti58mfrvbrkb",
+    "name": "Product 68",
+    "description": "Description for product 68",
+    "category": "Home & Garden",
+    "price": 78,
+    "costPrice": 157,
+    "stockQuantity": 765,
+    "sku": "SKU-068",
+    "brand": "Brand 7",
+    "tags": [
+      "tag68",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.939Z",
+    "updatedAt": "2025-09-20T06:09:08.939Z"
+  },
+  {
+    "_id": "u3tu4ww94mfrvbrkb",
+    "name": "Product 69",
+    "description": "Description for product 69",
+    "category": "Health",
+    "price": 202,
+    "costPrice": 6,
+    "stockQuantity": 464,
+    "sku": "SKU-069",
+    "brand": "Brand 7",
+    "tags": [
+      "tag69",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.939Z",
+    "updatedAt": "2025-09-20T06:09:08.939Z"
+  },
+  {
+    "_id": "egxijgk4mmfrvbrkc",
+    "name": "Product 70",
+    "description": "Description for product 70",
+    "category": "Clothing",
+    "price": 265,
+    "costPrice": 137,
+    "stockQuantity": 729,
+    "sku": "SKU-070",
+    "brand": "Brand 7",
+    "tags": [
+      "tag70",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.940Z",
+    "updatedAt": "2025-09-20T06:09:08.940Z"
+  },
+  {
+    "_id": "q1wrksg78mfrvbrkc",
+    "name": "Product 71",
+    "description": "Description for product 71",
+    "category": "Beauty",
+    "price": 331,
+    "costPrice": 167,
+    "stockQuantity": 309,
+    "sku": "SKU-071",
+    "brand": "Brand 8",
+    "tags": [
+      "tag71",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.940Z",
+    "updatedAt": "2025-09-20T06:09:08.940Z"
+  },
+  {
+    "_id": "yu4l83pmmmfrvbrkd",
+    "name": "Product 72",
+    "description": "Description for product 72",
+    "category": "Automotive",
+    "price": 108,
+    "costPrice": 38,
+    "stockQuantity": 982,
+    "sku": "SKU-072",
+    "brand": "Brand 8",
+    "tags": [
+      "tag72",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.941Z",
+    "updatedAt": "2025-09-20T06:09:08.941Z"
+  },
+  {
+    "_id": "t25x3wnosmfrvbrkd",
+    "name": "Product 73",
+    "description": "Description for product 73",
+    "category": "Clothing",
+    "price": 309,
+    "costPrice": 50,
+    "stockQuantity": 782,
+    "sku": "SKU-073",
+    "brand": "Brand 8",
+    "tags": [
+      "tag73",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.941Z",
+    "updatedAt": "2025-09-20T06:09:08.941Z"
+  },
+  {
+    "_id": "okbgjv172mfrvbrke",
+    "name": "Product 74",
+    "description": "Description for product 74",
+    "category": "Health",
+    "price": 481,
+    "costPrice": 145,
+    "stockQuantity": 108,
+    "sku": "SKU-074",
+    "brand": "Brand 8",
+    "tags": [
+      "tag74",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.942Z",
+    "updatedAt": "2025-09-20T06:09:08.942Z"
+  },
+  {
+    "_id": "zb6cmw09cmfrvbrke",
+    "name": "Product 75",
+    "description": "Description for product 75",
+    "category": "Sports",
+    "price": 394,
+    "costPrice": 110,
+    "stockQuantity": 532,
+    "sku": "SKU-075",
+    "brand": "Brand 8",
+    "tags": [
+      "tag75",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.942Z",
+    "updatedAt": "2025-09-20T06:09:08.942Z"
+  },
+  {
+    "_id": "hfps4j4tbmfrvbrkf",
+    "name": "Product 76",
+    "description": "Description for product 76",
+    "category": "Clothing",
+    "price": 99,
+    "costPrice": 28,
+    "stockQuantity": 989,
+    "sku": "SKU-076",
+    "brand": "Brand 8",
+    "tags": [
+      "tag76",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.943Z",
+    "updatedAt": "2025-09-20T06:09:08.943Z"
+  },
+  {
+    "_id": "xbnu97chymfrvbrkf",
+    "name": "Product 77",
+    "description": "Description for product 77",
+    "category": "Home & Garden",
+    "price": 420,
+    "costPrice": 55,
+    "stockQuantity": 372,
+    "sku": "SKU-077",
+    "brand": "Brand 8",
+    "tags": [
+      "tag77",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.943Z",
+    "updatedAt": "2025-09-20T06:09:08.943Z"
+  },
+  {
+    "_id": "5xvjz6h8jmfrvbrkg",
+    "name": "Product 78",
+    "description": "Description for product 78",
+    "category": "Health",
+    "price": 15,
+    "costPrice": 72,
+    "stockQuantity": 554,
+    "sku": "SKU-078",
+    "brand": "Brand 8",
+    "tags": [
+      "tag78",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.944Z",
+    "updatedAt": "2025-09-20T06:09:08.944Z"
+  },
+  {
+    "_id": "zzrsb7aqpmfrvbrkh",
+    "name": "Product 79",
+    "description": "Description for product 79",
+    "category": "Books",
+    "price": 305,
+    "costPrice": 144,
+    "stockQuantity": 456,
+    "sku": "SKU-079",
+    "brand": "Brand 8",
+    "tags": [
+      "tag79",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.945Z",
+    "updatedAt": "2025-09-20T06:09:08.945Z"
+  },
+  {
+    "_id": "mu3hrxt0pmfrvbrki",
+    "name": "Product 80",
+    "description": "Description for product 80",
+    "category": "Health",
+    "price": 220,
+    "costPrice": 74,
+    "stockQuantity": 133,
+    "sku": "SKU-080",
+    "brand": "Brand 8",
+    "tags": [
+      "tag80",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.946Z",
+    "updatedAt": "2025-09-20T06:09:08.946Z"
+  },
+  {
+    "_id": "wvq711rzfmfrvbrki",
+    "name": "Product 81",
+    "description": "Description for product 81",
+    "category": "Automotive",
+    "price": 130,
+    "costPrice": 103,
+    "stockQuantity": 375,
+    "sku": "SKU-081",
+    "brand": "Brand 9",
+    "tags": [
+      "tag81",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.946Z",
+    "updatedAt": "2025-09-20T06:09:08.946Z"
+  },
+  {
+    "_id": "8y0669uaomfrvbrkj",
+    "name": "Product 82",
+    "description": "Description for product 82",
+    "category": "Clothing",
+    "price": 491,
+    "costPrice": 84,
+    "stockQuantity": 968,
+    "sku": "SKU-082",
+    "brand": "Brand 9",
+    "tags": [
+      "tag82",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.947Z",
+    "updatedAt": "2025-09-20T06:09:08.947Z"
+  },
+  {
+    "_id": "lj0miyw2zmfrvbrkk",
+    "name": "Product 83",
+    "description": "Description for product 83",
+    "category": "Books",
+    "price": 297,
+    "costPrice": 29,
+    "stockQuantity": 524,
+    "sku": "SKU-083",
+    "brand": "Brand 9",
+    "tags": [
+      "tag83",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.948Z",
+    "updatedAt": "2025-09-20T06:09:08.948Z"
+  },
+  {
+    "_id": "nskmotjymmfrvbrkk",
+    "name": "Product 84",
+    "description": "Description for product 84",
+    "category": "Health",
+    "price": 152,
+    "costPrice": 177,
+    "stockQuantity": 998,
+    "sku": "SKU-084",
+    "brand": "Brand 9",
+    "tags": [
+      "tag84",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.948Z",
+    "updatedAt": "2025-09-20T06:09:08.948Z"
+  },
+  {
+    "_id": "duvf2x1t1mfrvbrkl",
+    "name": "Product 85",
+    "description": "Description for product 85",
+    "category": "Clothing",
+    "price": 242,
+    "costPrice": 155,
+    "stockQuantity": 792,
+    "sku": "SKU-085",
+    "brand": "Brand 9",
+    "tags": [
+      "tag85",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.949Z",
+    "updatedAt": "2025-09-20T06:09:08.949Z"
+  },
+  {
+    "_id": "41citrx8jmfrvbrkl",
+    "name": "Product 86",
+    "description": "Description for product 86",
+    "category": "Electronics",
+    "price": 397,
+    "costPrice": 109,
+    "stockQuantity": 1009,
+    "sku": "SKU-086",
+    "brand": "Brand 9",
+    "tags": [
+      "tag86",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.949Z",
+    "updatedAt": "2025-09-20T06:09:08.949Z"
+  },
+  {
+    "_id": "kuswuq0pcmfrvbrkm",
+    "name": "Product 87",
+    "description": "Description for product 87",
+    "category": "Beauty",
+    "price": 196,
+    "costPrice": 108,
+    "stockQuantity": 635,
+    "sku": "SKU-087",
+    "brand": "Brand 9",
+    "tags": [
+      "tag87",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.950Z",
+    "updatedAt": "2025-09-20T06:09:08.950Z"
+  },
+  {
+    "_id": "r0azwiywqmfrvbrkm",
+    "name": "Product 88",
+    "description": "Description for product 88",
+    "category": "Home & Garden",
+    "price": 137,
+    "costPrice": 80,
+    "stockQuantity": 558,
+    "sku": "SKU-088",
+    "brand": "Brand 9",
+    "tags": [
+      "tag88",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.950Z",
+    "updatedAt": "2025-09-20T06:09:08.950Z"
+  },
+  {
+    "_id": "tj0t5kf23mfrvbrkn",
+    "name": "Product 89",
+    "description": "Description for product 89",
+    "category": "Electronics",
+    "price": 424,
+    "costPrice": 124,
+    "stockQuantity": 927,
+    "sku": "SKU-089",
+    "brand": "Brand 9",
+    "tags": [
+      "tag89",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.951Z",
+    "updatedAt": "2025-09-20T06:09:08.951Z"
+  },
+  {
+    "_id": "cutylcxzimfrvbrkn",
+    "name": "Product 90",
+    "description": "Description for product 90",
+    "category": "Books",
+    "price": 170,
+    "costPrice": 175,
+    "stockQuantity": 160,
+    "sku": "SKU-090",
+    "brand": "Brand 9",
+    "tags": [
+      "tag90",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.951Z",
+    "updatedAt": "2025-09-20T06:09:08.951Z"
+  },
+  {
+    "_id": "29okbggz4mfrvbrko",
+    "name": "Product 91",
+    "description": "Description for product 91",
+    "category": "Health",
+    "price": 199,
+    "costPrice": 200,
+    "stockQuantity": 421,
+    "sku": "SKU-091",
+    "brand": "Brand 10",
+    "tags": [
+      "tag91",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.952Z",
+    "updatedAt": "2025-09-20T06:09:08.952Z"
+  },
+  {
+    "_id": "58jkaa3g8mfrvbrkp",
+    "name": "Product 92",
+    "description": "Description for product 92",
+    "category": "Automotive",
+    "price": 142,
+    "costPrice": 66,
+    "stockQuantity": 49,
+    "sku": "SKU-092",
+    "brand": "Brand 10",
+    "tags": [
+      "tag92",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.953Z",
+    "updatedAt": "2025-09-20T06:09:08.953Z"
+  },
+  {
+    "_id": "5v3as49m6mfrvbrkp",
+    "name": "Product 93",
+    "description": "Description for product 93",
+    "category": "Sports",
+    "price": 168,
+    "costPrice": 142,
+    "stockQuantity": 809,
+    "sku": "SKU-093",
+    "brand": "Brand 10",
+    "tags": [
+      "tag93",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.953Z",
+    "updatedAt": "2025-09-20T06:09:08.953Z"
+  },
+  {
+    "_id": "r5nhtmwh8mfrvbrkq",
+    "name": "Product 94",
+    "description": "Description for product 94",
+    "category": "Beauty",
+    "price": 81,
+    "costPrice": 156,
+    "stockQuantity": 755,
+    "sku": "SKU-094",
+    "brand": "Brand 10",
+    "tags": [
+      "tag94",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.954Z",
+    "updatedAt": "2025-09-20T06:09:08.954Z"
+  },
+  {
+    "_id": "zb7o6m25nmfrvbrkq",
+    "name": "Product 95",
+    "description": "Description for product 95",
+    "category": "Clothing",
+    "price": 161,
+    "costPrice": 153,
+    "stockQuantity": 273,
+    "sku": "SKU-095",
+    "brand": "Brand 10",
+    "tags": [
+      "tag95",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.954Z",
+    "updatedAt": "2025-09-20T06:09:08.954Z"
+  },
+  {
+    "_id": "gfn0h6uk7mfrvbrkr",
+    "name": "Product 96",
+    "description": "Description for product 96",
+    "category": "Health",
+    "price": 47,
+    "costPrice": 121,
+    "stockQuantity": 384,
+    "sku": "SKU-096",
+    "brand": "Brand 10",
+    "tags": [
+      "tag96",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:09:08.955Z",
+    "updatedAt": "2025-09-20T06:09:08.955Z"
+  },
+  {
+    "_id": "2uyofbz0imfrvbrks",
+    "name": "Product 97",
+    "description": "Description for product 97",
+    "category": "Home & Garden",
+    "price": 424,
+    "costPrice": 112,
+    "stockQuantity": 100,
+    "sku": "SKU-097",
+    "brand": "Brand 10",
+    "tags": [
+      "tag97",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.956Z",
+    "updatedAt": "2025-09-20T06:09:08.956Z"
+  },
+  {
+    "_id": "u8ldkl5c5mfrvbrku",
+    "name": "Product 98",
+    "description": "Description for product 98",
+    "category": "Beauty",
+    "price": 81,
+    "costPrice": 152,
+    "stockQuantity": 270,
+    "sku": "SKU-098",
+    "brand": "Brand 10",
+    "tags": [
+      "tag98",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.958Z",
+    "updatedAt": "2025-09-20T06:09:08.958Z"
+  },
+  {
+    "_id": "i5cvheaggmfrvbrkw",
+    "name": "Product 99",
+    "description": "Description for product 99",
+    "category": "Sports",
+    "price": 299,
+    "costPrice": 133,
+    "stockQuantity": 602,
+    "sku": "SKU-099",
+    "brand": "Brand 10",
+    "tags": [
+      "tag99",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.960Z",
+    "updatedAt": "2025-09-20T06:09:08.960Z"
+  },
+  {
+    "_id": "yh872chy3mfrvbrkx",
+    "name": "Product 100",
+    "description": "Description for product 100",
+    "category": "Health",
+    "price": 88,
+    "costPrice": 114,
+    "stockQuantity": 871,
+    "sku": "SKU-100",
+    "brand": "Brand 10",
+    "tags": [
+      "tag100",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:09:08.961Z",
+    "updatedAt": "2025-09-20T06:09:08.961Z"
+  },
+  {
+    "_id": "a4nnbzqksmfrvd7y5",
+    "name": "Product 1",
+    "description": "Description for product 1",
+    "category": "Automotive",
+    "price": 163,
+    "costPrice": 118,
+    "stockQuantity": 1003,
+    "sku": "SKU-001",
+    "brand": "Brand 1",
+    "tags": [
+      "tag1",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.829Z",
+    "updatedAt": "2025-09-20T06:10:16.829Z"
+  },
+  {
+    "_id": "cfh9ltqz0mfrvd7yn",
+    "name": "Product 2",
+    "description": "Description for product 2",
+    "category": "Electronics",
+    "price": 128,
+    "costPrice": 74,
+    "stockQuantity": 701,
+    "sku": "SKU-002",
+    "brand": "Brand 1",
+    "tags": [
+      "tag2",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.847Z",
+    "updatedAt": "2025-09-20T06:10:16.847Z"
+  },
+  {
+    "_id": "zd5hdwzjbmfrvd7yr",
+    "name": "Product 3",
+    "description": "Description for product 3",
+    "category": "Automotive",
+    "price": 117,
+    "costPrice": 12,
+    "stockQuantity": 371,
+    "sku": "SKU-003",
+    "brand": "Brand 1",
+    "tags": [
+      "tag3",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.851Z",
+    "updatedAt": "2025-09-20T06:10:16.851Z"
+  },
+  {
+    "_id": "wkvsaftb9mfrvd7yw",
+    "name": "Product 4",
+    "description": "Description for product 4",
+    "category": "Electronics",
+    "price": 357,
+    "costPrice": 174,
+    "stockQuantity": 151,
+    "sku": "SKU-004",
+    "brand": "Brand 1",
+    "tags": [
+      "tag4",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.856Z",
+    "updatedAt": "2025-09-20T06:10:16.856Z"
+  },
+  {
+    "_id": "rztjj53jkmfrvd7yz",
+    "name": "Product 5",
+    "description": "Description for product 5",
+    "category": "Beauty",
+    "price": 405,
+    "costPrice": 10,
+    "stockQuantity": 858,
+    "sku": "SKU-005",
+    "brand": "Brand 1",
+    "tags": [
+      "tag5",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.859Z",
+    "updatedAt": "2025-09-20T06:10:16.859Z"
+  },
+  {
+    "_id": "zf4mgntyomfrvd7z1",
+    "name": "Product 6",
+    "description": "Description for product 6",
+    "category": "Books",
+    "price": 449,
+    "costPrice": 203,
+    "stockQuantity": 841,
+    "sku": "SKU-006",
+    "brand": "Brand 1",
+    "tags": [
+      "tag6",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.861Z",
+    "updatedAt": "2025-09-20T06:10:16.861Z"
+  },
+  {
+    "_id": "xhpksamj9mfrvd7z2",
+    "name": "Product 7",
+    "description": "Description for product 7",
+    "category": "Automotive",
+    "price": 84,
+    "costPrice": 164,
+    "stockQuantity": 183,
+    "sku": "SKU-007",
+    "brand": "Brand 1",
+    "tags": [
+      "tag7",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.862Z",
+    "updatedAt": "2025-09-20T06:10:16.862Z"
+  },
+  {
+    "_id": "oxagq2hicmfrvd7z4",
+    "name": "Product 8",
+    "description": "Description for product 8",
+    "category": "Sports",
+    "price": 327,
+    "costPrice": 113,
+    "stockQuantity": 229,
+    "sku": "SKU-008",
+    "brand": "Brand 1",
+    "tags": [
+      "tag8",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.864Z",
+    "updatedAt": "2025-09-20T06:10:16.864Z"
+  },
+  {
+    "_id": "8w9u0zu6imfrvd7z6",
+    "name": "Product 9",
+    "description": "Description for product 9",
+    "category": "Automotive",
+    "price": 214,
+    "costPrice": 11,
+    "stockQuantity": 934,
+    "sku": "SKU-009",
+    "brand": "Brand 1",
+    "tags": [
+      "tag9",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.866Z",
+    "updatedAt": "2025-09-20T06:10:16.866Z"
+  },
+  {
+    "_id": "gowqcz5vgmfrvd7z9",
+    "name": "Product 10",
+    "description": "Description for product 10",
+    "category": "Beauty",
+    "price": 477,
+    "costPrice": 10,
+    "stockQuantity": 290,
+    "sku": "SKU-010",
+    "brand": "Brand 1",
+    "tags": [
+      "tag10",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.869Z",
+    "updatedAt": "2025-09-20T06:10:16.869Z"
+  },
+  {
+    "_id": "8xfvr2zlzmfrvd7za",
+    "name": "Product 11",
+    "description": "Description for product 11",
+    "category": "Books",
+    "price": 322,
+    "costPrice": 118,
+    "stockQuantity": 398,
+    "sku": "SKU-011",
+    "brand": "Brand 2",
+    "tags": [
+      "tag11",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.870Z",
+    "updatedAt": "2025-09-20T06:10:16.870Z"
+  },
+  {
+    "_id": "k1tro54r5mfrvd7zb",
+    "name": "Product 12",
+    "description": "Description for product 12",
+    "category": "Sports",
+    "price": 253,
+    "costPrice": 137,
+    "stockQuantity": 146,
+    "sku": "SKU-012",
+    "brand": "Brand 2",
+    "tags": [
+      "tag12",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.871Z",
+    "updatedAt": "2025-09-20T06:10:16.871Z"
+  },
+  {
+    "_id": "657x8i1gtmfrvd7zc",
+    "name": "Product 13",
+    "description": "Description for product 13",
+    "category": "Automotive",
+    "price": 488,
+    "costPrice": 25,
+    "stockQuantity": 637,
+    "sku": "SKU-013",
+    "brand": "Brand 2",
+    "tags": [
+      "tag13",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.872Z",
+    "updatedAt": "2025-09-20T06:10:16.872Z"
+  },
+  {
+    "_id": "jzuv7h9vgmfrvd7zd",
+    "name": "Product 14",
+    "description": "Description for product 14",
+    "category": "Clothing",
+    "price": 283,
+    "costPrice": 174,
+    "stockQuantity": 892,
+    "sku": "SKU-014",
+    "brand": "Brand 2",
+    "tags": [
+      "tag14",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.873Z",
+    "updatedAt": "2025-09-20T06:10:16.873Z"
+  },
+  {
+    "_id": "vm22l2e9amfrvd7zf",
+    "name": "Product 15",
+    "description": "Description for product 15",
+    "category": "Books",
+    "price": 482,
+    "costPrice": 72,
+    "stockQuantity": 402,
+    "sku": "SKU-015",
+    "brand": "Brand 2",
+    "tags": [
+      "tag15",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.875Z",
+    "updatedAt": "2025-09-20T06:10:16.875Z"
+  },
+  {
+    "_id": "qwg4rsfxumfrvd7zg",
+    "name": "Product 16",
+    "description": "Description for product 16",
+    "category": "Health",
+    "price": 131,
+    "costPrice": 166,
+    "stockQuantity": 318,
+    "sku": "SKU-016",
+    "brand": "Brand 2",
+    "tags": [
+      "tag16",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.876Z",
+    "updatedAt": "2025-09-20T06:10:16.876Z"
+  },
+  {
+    "_id": "jfoxizinfmfrvd7zh",
+    "name": "Product 17",
+    "description": "Description for product 17",
+    "category": "Home & Garden",
+    "price": 366,
+    "costPrice": 89,
+    "stockQuantity": 883,
+    "sku": "SKU-017",
+    "brand": "Brand 2",
+    "tags": [
+      "tag17",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.877Z",
+    "updatedAt": "2025-09-20T06:10:16.877Z"
+  },
+  {
+    "_id": "c6ikvauvwmfrvd7zi",
+    "name": "Product 18",
+    "description": "Description for product 18",
+    "category": "Automotive",
+    "price": 86,
+    "costPrice": 99,
+    "stockQuantity": 41,
+    "sku": "SKU-018",
+    "brand": "Brand 2",
+    "tags": [
+      "tag18",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.878Z",
+    "updatedAt": "2025-09-20T06:10:16.878Z"
+  },
+  {
+    "_id": "69kcwig9wmfrvd7zj",
+    "name": "Product 19",
+    "description": "Description for product 19",
+    "category": "Health",
+    "price": 393,
+    "costPrice": 48,
+    "stockQuantity": 745,
+    "sku": "SKU-019",
+    "brand": "Brand 2",
+    "tags": [
+      "tag19",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.879Z",
+    "updatedAt": "2025-09-20T06:10:16.879Z"
+  },
+  {
+    "_id": "a1tvy1bc8mfrvd7zk",
+    "name": "Product 20",
+    "description": "Description for product 20",
+    "category": "Clothing",
+    "price": 327,
+    "costPrice": 129,
+    "stockQuantity": 301,
+    "sku": "SKU-020",
+    "brand": "Brand 2",
+    "tags": [
+      "tag20",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.880Z",
+    "updatedAt": "2025-09-20T06:10:16.880Z"
+  },
+  {
+    "_id": "zkdy3hbsjmfrvd7zl",
+    "name": "Product 21",
+    "description": "Description for product 21",
+    "category": "Electronics",
+    "price": 141,
+    "costPrice": 105,
+    "stockQuantity": 1008,
+    "sku": "SKU-021",
+    "brand": "Brand 3",
+    "tags": [
+      "tag21",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.881Z",
+    "updatedAt": "2025-09-20T06:10:16.881Z"
+  },
+  {
+    "_id": "4karvs109mfrvd7zn",
+    "name": "Product 22",
+    "description": "Description for product 22",
+    "category": "Automotive",
+    "price": 233,
+    "costPrice": 53,
+    "stockQuantity": 676,
+    "sku": "SKU-022",
+    "brand": "Brand 3",
+    "tags": [
+      "tag22",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.883Z",
+    "updatedAt": "2025-09-20T06:10:16.883Z"
+  },
+  {
+    "_id": "2mu6l7f5rmfrvd7zp",
+    "name": "Product 23",
+    "description": "Description for product 23",
+    "category": "Electronics",
+    "price": 487,
+    "costPrice": 63,
+    "stockQuantity": 710,
+    "sku": "SKU-023",
+    "brand": "Brand 3",
+    "tags": [
+      "tag23",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.885Z",
+    "updatedAt": "2025-09-20T06:10:16.885Z"
+  },
+  {
+    "_id": "le8levqcdmfrvd7zr",
+    "name": "Product 24",
+    "description": "Description for product 24",
+    "category": "Books",
+    "price": 60,
+    "costPrice": 27,
+    "stockQuantity": 442,
+    "sku": "SKU-024",
+    "brand": "Brand 3",
+    "tags": [
+      "tag24",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.887Z",
+    "updatedAt": "2025-09-20T06:10:16.887Z"
+  },
+  {
+    "_id": "dd26ch6somfrvd7zt",
+    "name": "Product 25",
+    "description": "Description for product 25",
+    "category": "Sports",
+    "price": 87,
+    "costPrice": 178,
+    "stockQuantity": 222,
+    "sku": "SKU-025",
+    "brand": "Brand 3",
+    "tags": [
+      "tag25",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.889Z",
+    "updatedAt": "2025-09-20T06:10:16.889Z"
+  },
+  {
+    "_id": "dcnep7jkrmfrvd7zu",
+    "name": "Product 26",
+    "description": "Description for product 26",
+    "category": "Beauty",
+    "price": 17,
+    "costPrice": 40,
+    "stockQuantity": 787,
+    "sku": "SKU-026",
+    "brand": "Brand 3",
+    "tags": [
+      "tag26",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.890Z",
+    "updatedAt": "2025-09-20T06:10:16.890Z"
+  },
+  {
+    "_id": "3jbkxg5x3mfrvd7zw",
+    "name": "Product 27",
+    "description": "Description for product 27",
+    "category": "Sports",
+    "price": 263,
+    "costPrice": 127,
+    "stockQuantity": 251,
+    "sku": "SKU-027",
+    "brand": "Brand 3",
+    "tags": [
+      "tag27",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.892Z",
+    "updatedAt": "2025-09-20T06:10:16.892Z"
+  },
+  {
+    "_id": "k017g8rl7mfrvd7zy",
+    "name": "Product 28",
+    "description": "Description for product 28",
+    "category": "Books",
+    "price": 282,
+    "costPrice": 52,
+    "stockQuantity": 757,
+    "sku": "SKU-028",
+    "brand": "Brand 3",
+    "tags": [
+      "tag28",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.894Z",
+    "updatedAt": "2025-09-20T06:10:16.894Z"
+  },
+  {
+    "_id": "mj0yjkrnpmfrvd7zz",
+    "name": "Product 29",
+    "description": "Description for product 29",
+    "category": "Automotive",
+    "price": 313,
+    "costPrice": 107,
+    "stockQuantity": 446,
+    "sku": "SKU-029",
+    "brand": "Brand 3",
+    "tags": [
+      "tag29",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.895Z",
+    "updatedAt": "2025-09-20T06:10:16.895Z"
+  },
+  {
+    "_id": "aa7tfr16dmfrvd800",
+    "name": "Product 30",
+    "description": "Description for product 30",
+    "category": "Books",
+    "price": 440,
+    "costPrice": 194,
+    "stockQuantity": 396,
+    "sku": "SKU-030",
+    "brand": "Brand 3",
+    "tags": [
+      "tag30",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.896Z",
+    "updatedAt": "2025-09-20T06:10:16.896Z"
+  },
+  {
+    "_id": "134jz8j5pmfrvd801",
+    "name": "Product 31",
+    "description": "Description for product 31",
+    "category": "Clothing",
+    "price": 435,
+    "costPrice": 71,
+    "stockQuantity": 597,
+    "sku": "SKU-031",
+    "brand": "Brand 4",
+    "tags": [
+      "tag31",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.897Z",
+    "updatedAt": "2025-09-20T06:10:16.897Z"
+  },
+  {
+    "_id": "ryx9yfomymfrvd803",
+    "name": "Product 32",
+    "description": "Description for product 32",
+    "category": "Electronics",
+    "price": 165,
+    "costPrice": 52,
+    "stockQuantity": 656,
+    "sku": "SKU-032",
+    "brand": "Brand 4",
+    "tags": [
+      "tag32",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.899Z",
+    "updatedAt": "2025-09-20T06:10:16.899Z"
+  },
+  {
+    "_id": "4q1lc1087mfrvd804",
+    "name": "Product 33",
+    "description": "Description for product 33",
+    "category": "Books",
+    "price": 273,
+    "costPrice": 88,
+    "stockQuantity": 302,
+    "sku": "SKU-033",
+    "brand": "Brand 4",
+    "tags": [
+      "tag33",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.900Z",
+    "updatedAt": "2025-09-20T06:10:16.900Z"
+  },
+  {
+    "_id": "fmg01pqo6mfrvd805",
+    "name": "Product 34",
+    "description": "Description for product 34",
+    "category": "Beauty",
+    "price": 133,
+    "costPrice": 35,
+    "stockQuantity": 652,
+    "sku": "SKU-034",
+    "brand": "Brand 4",
+    "tags": [
+      "tag34",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.901Z",
+    "updatedAt": "2025-09-20T06:10:16.901Z"
+  },
+  {
+    "_id": "x73etwzv1mfrvd806",
+    "name": "Product 35",
+    "description": "Description for product 35",
+    "category": "Beauty",
+    "price": 108,
+    "costPrice": 33,
+    "stockQuantity": 358,
+    "sku": "SKU-035",
+    "brand": "Brand 4",
+    "tags": [
+      "tag35",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.902Z",
+    "updatedAt": "2025-09-20T06:10:16.902Z"
+  },
+  {
+    "_id": "jlgl75d2gmfrvd807",
+    "name": "Product 36",
+    "description": "Description for product 36",
+    "category": "Health",
+    "price": 416,
+    "costPrice": 171,
+    "stockQuantity": 600,
+    "sku": "SKU-036",
+    "brand": "Brand 4",
+    "tags": [
+      "tag36",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.903Z",
+    "updatedAt": "2025-09-20T06:10:16.903Z"
+  },
+  {
+    "_id": "6v4famc4lmfrvd808",
+    "name": "Product 37",
+    "description": "Description for product 37",
+    "category": "Health",
+    "price": 131,
+    "costPrice": 129,
+    "stockQuantity": 725,
+    "sku": "SKU-037",
+    "brand": "Brand 4",
+    "tags": [
+      "tag37",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.904Z",
+    "updatedAt": "2025-09-20T06:10:16.904Z"
+  },
+  {
+    "_id": "wc3uojzbbmfrvd80a",
+    "name": "Product 38",
+    "description": "Description for product 38",
+    "category": "Clothing",
+    "price": 177,
+    "costPrice": 188,
+    "stockQuantity": 414,
+    "sku": "SKU-038",
+    "brand": "Brand 4",
+    "tags": [
+      "tag38",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.906Z",
+    "updatedAt": "2025-09-20T06:10:16.906Z"
+  },
+  {
+    "_id": "1e4bmu7y3mfrvd80b",
+    "name": "Product 39",
+    "description": "Description for product 39",
+    "category": "Books",
+    "price": 416,
+    "costPrice": 135,
+    "stockQuantity": 471,
+    "sku": "SKU-039",
+    "brand": "Brand 4",
+    "tags": [
+      "tag39",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.907Z",
+    "updatedAt": "2025-09-20T06:10:16.907Z"
+  },
+  {
+    "_id": "tjrids92lmfrvd80c",
+    "name": "Product 40",
+    "description": "Description for product 40",
+    "category": "Automotive",
+    "price": 389,
+    "costPrice": 80,
+    "stockQuantity": 46,
+    "sku": "SKU-040",
+    "brand": "Brand 4",
+    "tags": [
+      "tag40",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.908Z",
+    "updatedAt": "2025-09-20T06:10:16.908Z"
+  },
+  {
+    "_id": "ipctjcztkmfrvd80d",
+    "name": "Product 41",
+    "description": "Description for product 41",
+    "category": "Electronics",
+    "price": 366,
+    "costPrice": 192,
+    "stockQuantity": 464,
+    "sku": "SKU-041",
+    "brand": "Brand 5",
+    "tags": [
+      "tag41",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.909Z",
+    "updatedAt": "2025-09-20T06:10:16.909Z"
+  },
+  {
+    "_id": "hdvxiexz8mfrvd80e",
+    "name": "Product 42",
+    "description": "Description for product 42",
+    "category": "Books",
+    "price": 64,
+    "costPrice": 180,
+    "stockQuantity": 725,
+    "sku": "SKU-042",
+    "brand": "Brand 5",
+    "tags": [
+      "tag42",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.910Z",
+    "updatedAt": "2025-09-20T06:10:16.910Z"
+  },
+  {
+    "_id": "83wi1des3mfrvd80e",
+    "name": "Product 43",
+    "description": "Description for product 43",
+    "category": "Books",
+    "price": 106,
+    "costPrice": 117,
+    "stockQuantity": 83,
+    "sku": "SKU-043",
+    "brand": "Brand 5",
+    "tags": [
+      "tag43",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.910Z",
+    "updatedAt": "2025-09-20T06:10:16.910Z"
+  },
+  {
+    "_id": "jy62j2nuamfrvd80g",
+    "name": "Product 44",
+    "description": "Description for product 44",
+    "category": "Beauty",
+    "price": 286,
+    "costPrice": 6,
+    "stockQuantity": 911,
+    "sku": "SKU-044",
+    "brand": "Brand 5",
+    "tags": [
+      "tag44",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.912Z",
+    "updatedAt": "2025-09-20T06:10:16.912Z"
+  },
+  {
+    "_id": "f729mk3pjmfrvd80h",
+    "name": "Product 45",
+    "description": "Description for product 45",
+    "category": "Electronics",
+    "price": 325,
+    "costPrice": 181,
+    "stockQuantity": 68,
+    "sku": "SKU-045",
+    "brand": "Brand 5",
+    "tags": [
+      "tag45",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.913Z",
+    "updatedAt": "2025-09-20T06:10:16.913Z"
+  },
+  {
+    "_id": "hj48g1h79mfrvd80j",
+    "name": "Product 46",
+    "description": "Description for product 46",
+    "category": "Sports",
+    "price": 252,
+    "costPrice": 10,
+    "stockQuantity": 244,
+    "sku": "SKU-046",
+    "brand": "Brand 5",
+    "tags": [
+      "tag46",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.915Z",
+    "updatedAt": "2025-09-20T06:10:16.915Z"
+  },
+  {
+    "_id": "2qwwl5yiymfrvd80k",
+    "name": "Product 47",
+    "description": "Description for product 47",
+    "category": "Electronics",
+    "price": 163,
+    "costPrice": 166,
+    "stockQuantity": 82,
+    "sku": "SKU-047",
+    "brand": "Brand 5",
+    "tags": [
+      "tag47",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.916Z",
+    "updatedAt": "2025-09-20T06:10:16.916Z"
+  },
+  {
+    "_id": "ldn1livmxmfrvd80m",
+    "name": "Product 48",
+    "description": "Description for product 48",
+    "category": "Home & Garden",
+    "price": 337,
+    "costPrice": 100,
+    "stockQuantity": 814,
+    "sku": "SKU-048",
+    "brand": "Brand 5",
+    "tags": [
+      "tag48",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.918Z",
+    "updatedAt": "2025-09-20T06:10:16.918Z"
+  },
+  {
+    "_id": "8fg2w7a9pmfrvd80n",
+    "name": "Product 49",
+    "description": "Description for product 49",
+    "category": "Books",
+    "price": 437,
+    "costPrice": 89,
+    "stockQuantity": 985,
+    "sku": "SKU-049",
+    "brand": "Brand 5",
+    "tags": [
+      "tag49",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.919Z",
+    "updatedAt": "2025-09-20T06:10:16.919Z"
+  },
+  {
+    "_id": "wr6caky7rmfrvd80p",
+    "name": "Product 50",
+    "description": "Description for product 50",
+    "category": "Beauty",
+    "price": 363,
+    "costPrice": 95,
+    "stockQuantity": 702,
+    "sku": "SKU-050",
+    "brand": "Brand 5",
+    "tags": [
+      "tag50",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.921Z",
+    "updatedAt": "2025-09-20T06:10:16.921Z"
+  },
+  {
+    "_id": "jqe7h857ymfrvd80q",
+    "name": "Product 51",
+    "description": "Description for product 51",
+    "category": "Beauty",
+    "price": 320,
+    "costPrice": 5,
+    "stockQuantity": 647,
+    "sku": "SKU-051",
+    "brand": "Brand 6",
+    "tags": [
+      "tag51",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.922Z",
+    "updatedAt": "2025-09-20T06:10:16.922Z"
+  },
+  {
+    "_id": "xbigo2dommfrvd80r",
+    "name": "Product 52",
+    "description": "Description for product 52",
+    "category": "Clothing",
+    "price": 138,
+    "costPrice": 76,
+    "stockQuantity": 11,
+    "sku": "SKU-052",
+    "brand": "Brand 6",
+    "tags": [
+      "tag52",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.923Z",
+    "updatedAt": "2025-09-20T06:10:16.923Z"
+  },
+  {
+    "_id": "btz63qa7imfrvd80s",
+    "name": "Product 53",
+    "description": "Description for product 53",
+    "category": "Health",
+    "price": 405,
+    "costPrice": 132,
+    "stockQuantity": 269,
+    "sku": "SKU-053",
+    "brand": "Brand 6",
+    "tags": [
+      "tag53",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.924Z",
+    "updatedAt": "2025-09-20T06:10:16.924Z"
+  },
+  {
+    "_id": "qtp0dz2z8mfrvd80u",
+    "name": "Product 54",
+    "description": "Description for product 54",
+    "category": "Health",
+    "price": 260,
+    "costPrice": 81,
+    "stockQuantity": 815,
+    "sku": "SKU-054",
+    "brand": "Brand 6",
+    "tags": [
+      "tag54",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.926Z",
+    "updatedAt": "2025-09-20T06:10:16.926Z"
+  },
+  {
+    "_id": "okvqicoarmfrvd80v",
+    "name": "Product 55",
+    "description": "Description for product 55",
+    "category": "Clothing",
+    "price": 93,
+    "costPrice": 102,
+    "stockQuantity": 173,
+    "sku": "SKU-055",
+    "brand": "Brand 6",
+    "tags": [
+      "tag55",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.927Z",
+    "updatedAt": "2025-09-20T06:10:16.927Z"
+  },
+  {
+    "_id": "y9m0zef7omfrvd80w",
+    "name": "Product 56",
+    "description": "Description for product 56",
+    "category": "Clothing",
+    "price": 129,
+    "costPrice": 124,
+    "stockQuantity": 856,
+    "sku": "SKU-056",
+    "brand": "Brand 6",
+    "tags": [
+      "tag56",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.928Z",
+    "updatedAt": "2025-09-20T06:10:16.928Z"
+  },
+  {
+    "_id": "absyhqkxbmfrvd80y",
+    "name": "Product 57",
+    "description": "Description for product 57",
+    "category": "Clothing",
+    "price": 276,
+    "costPrice": 15,
+    "stockQuantity": 940,
+    "sku": "SKU-057",
+    "brand": "Brand 6",
+    "tags": [
+      "tag57",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.930Z",
+    "updatedAt": "2025-09-20T06:10:16.930Z"
+  },
+  {
+    "_id": "7n6lybpikmfrvd810",
+    "name": "Product 58",
+    "description": "Description for product 58",
+    "category": "Beauty",
+    "price": 138,
+    "costPrice": 37,
+    "stockQuantity": 130,
+    "sku": "SKU-058",
+    "brand": "Brand 6",
+    "tags": [
+      "tag58",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.932Z",
+    "updatedAt": "2025-09-20T06:10:16.932Z"
+  },
+  {
+    "_id": "hijevogykmfrvd812",
+    "name": "Product 59",
+    "description": "Description for product 59",
+    "category": "Beauty",
+    "price": 381,
+    "costPrice": 121,
+    "stockQuantity": 379,
+    "sku": "SKU-059",
+    "brand": "Brand 6",
+    "tags": [
+      "tag59",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.934Z",
+    "updatedAt": "2025-09-20T06:10:16.934Z"
+  },
+  {
+    "_id": "e3u1jw1jlmfrvd814",
+    "name": "Product 60",
+    "description": "Description for product 60",
+    "category": "Beauty",
+    "price": 419,
+    "costPrice": 174,
+    "stockQuantity": 219,
+    "sku": "SKU-060",
+    "brand": "Brand 6",
+    "tags": [
+      "tag60",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.936Z",
+    "updatedAt": "2025-09-20T06:10:16.936Z"
+  },
+  {
+    "_id": "zzlslqk5bmfrvd816",
+    "name": "Product 61",
+    "description": "Description for product 61",
+    "category": "Beauty",
+    "price": 40,
+    "costPrice": 167,
+    "stockQuantity": 660,
+    "sku": "SKU-061",
+    "brand": "Brand 7",
+    "tags": [
+      "tag61",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.938Z",
+    "updatedAt": "2025-09-20T06:10:16.938Z"
+  },
+  {
+    "_id": "mlcm561zlmfrvd818",
+    "name": "Product 62",
+    "description": "Description for product 62",
+    "category": "Books",
+    "price": 459,
+    "costPrice": 73,
+    "stockQuantity": 105,
+    "sku": "SKU-062",
+    "brand": "Brand 7",
+    "tags": [
+      "tag62",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.940Z",
+    "updatedAt": "2025-09-20T06:10:16.940Z"
+  },
+  {
+    "_id": "5wyg6d7aamfrvd81a",
+    "name": "Product 63",
+    "description": "Description for product 63",
+    "category": "Electronics",
+    "price": 180,
+    "costPrice": 96,
+    "stockQuantity": 962,
+    "sku": "SKU-063",
+    "brand": "Brand 7",
+    "tags": [
+      "tag63",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.942Z",
+    "updatedAt": "2025-09-20T06:10:16.942Z"
+  },
+  {
+    "_id": "th8vbpehpmfrvd81d",
+    "name": "Product 64",
+    "description": "Description for product 64",
+    "category": "Clothing",
+    "price": 44,
+    "costPrice": 123,
+    "stockQuantity": 163,
+    "sku": "SKU-064",
+    "brand": "Brand 7",
+    "tags": [
+      "tag64",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.945Z",
+    "updatedAt": "2025-09-20T06:10:16.945Z"
+  },
+  {
+    "_id": "zxyx1agg3mfrvd81f",
+    "name": "Product 65",
+    "description": "Description for product 65",
+    "category": "Clothing",
+    "price": 210,
+    "costPrice": 180,
+    "stockQuantity": 973,
+    "sku": "SKU-065",
+    "brand": "Brand 7",
+    "tags": [
+      "tag65",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.947Z",
+    "updatedAt": "2025-09-20T06:10:16.947Z"
+  },
+  {
+    "_id": "plfutbpj7mfrvd81h",
+    "name": "Product 66",
+    "description": "Description for product 66",
+    "category": "Clothing",
+    "price": 506,
+    "costPrice": 159,
+    "stockQuantity": 674,
+    "sku": "SKU-066",
+    "brand": "Brand 7",
+    "tags": [
+      "tag66",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.949Z",
+    "updatedAt": "2025-09-20T06:10:16.949Z"
+  },
+  {
+    "_id": "sno7br75mmfrvd81j",
+    "name": "Product 67",
+    "description": "Description for product 67",
+    "category": "Electronics",
+    "price": 188,
+    "costPrice": 175,
+    "stockQuantity": 177,
+    "sku": "SKU-067",
+    "brand": "Brand 7",
+    "tags": [
+      "tag67",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.951Z",
+    "updatedAt": "2025-09-20T06:10:16.951Z"
+  },
+  {
+    "_id": "b76vzud41mfrvd81m",
+    "name": "Product 68",
+    "description": "Description for product 68",
+    "category": "Health",
+    "price": 93,
+    "costPrice": 201,
+    "stockQuantity": 609,
+    "sku": "SKU-068",
+    "brand": "Brand 7",
+    "tags": [
+      "tag68",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.954Z",
+    "updatedAt": "2025-09-20T06:10:16.954Z"
+  },
+  {
+    "_id": "1naodyq6tmfrvd81o",
+    "name": "Product 69",
+    "description": "Description for product 69",
+    "category": "Clothing",
+    "price": 494,
+    "costPrice": 128,
+    "stockQuantity": 492,
+    "sku": "SKU-069",
+    "brand": "Brand 7",
+    "tags": [
+      "tag69",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.956Z",
+    "updatedAt": "2025-09-20T06:10:16.956Z"
+  },
+  {
+    "_id": "kg7qigvi7mfrvd81q",
+    "name": "Product 70",
+    "description": "Description for product 70",
+    "category": "Home & Garden",
+    "price": 250,
+    "costPrice": 186,
+    "stockQuantity": 943,
+    "sku": "SKU-070",
+    "brand": "Brand 7",
+    "tags": [
+      "tag70",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.958Z",
+    "updatedAt": "2025-09-20T06:10:16.958Z"
+  },
+  {
+    "_id": "v5tnuvgu1mfrvd81s",
+    "name": "Product 71",
+    "description": "Description for product 71",
+    "category": "Health",
+    "price": 286,
+    "costPrice": 58,
+    "stockQuantity": 355,
+    "sku": "SKU-071",
+    "brand": "Brand 8",
+    "tags": [
+      "tag71",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.960Z",
+    "updatedAt": "2025-09-20T06:10:16.960Z"
+  },
+  {
+    "_id": "jsewi7qfwmfrvd81u",
+    "name": "Product 72",
+    "description": "Description for product 72",
+    "category": "Clothing",
+    "price": 442,
+    "costPrice": 111,
+    "stockQuantity": 847,
+    "sku": "SKU-072",
+    "brand": "Brand 8",
+    "tags": [
+      "tag72",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.962Z",
+    "updatedAt": "2025-09-20T06:10:16.962Z"
+  },
+  {
+    "_id": "jyxuo435wmfrvd81w",
+    "name": "Product 73",
+    "description": "Description for product 73",
+    "category": "Clothing",
+    "price": 15,
+    "costPrice": 124,
+    "stockQuantity": 697,
+    "sku": "SKU-073",
+    "brand": "Brand 8",
+    "tags": [
+      "tag73",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.964Z",
+    "updatedAt": "2025-09-20T06:10:16.964Z"
+  },
+  {
+    "_id": "107mc3hlmmfrvd81y",
+    "name": "Product 74",
+    "description": "Description for product 74",
+    "category": "Books",
+    "price": 64,
+    "costPrice": 139,
+    "stockQuantity": 818,
+    "sku": "SKU-074",
+    "brand": "Brand 8",
+    "tags": [
+      "tag74",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.966Z",
+    "updatedAt": "2025-09-20T06:10:16.966Z"
+  },
+  {
+    "_id": "1hr6a05g5mfrvd820",
+    "name": "Product 75",
+    "description": "Description for product 75",
+    "category": "Beauty",
+    "price": 69,
+    "costPrice": 189,
+    "stockQuantity": 498,
+    "sku": "SKU-075",
+    "brand": "Brand 8",
+    "tags": [
+      "tag75",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.968Z",
+    "updatedAt": "2025-09-20T06:10:16.968Z"
+  },
+  {
+    "_id": "aik97map2mfrvd821",
+    "name": "Product 76",
+    "description": "Description for product 76",
+    "category": "Sports",
+    "price": 286,
+    "costPrice": 8,
+    "stockQuantity": 483,
+    "sku": "SKU-076",
+    "brand": "Brand 8",
+    "tags": [
+      "tag76",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.970Z",
+    "updatedAt": "2025-09-20T06:10:16.970Z"
+  },
+  {
+    "_id": "qse26yhy5mfrvd823",
+    "name": "Product 77",
+    "description": "Description for product 77",
+    "category": "Home & Garden",
+    "price": 27,
+    "costPrice": 48,
+    "stockQuantity": 893,
+    "sku": "SKU-077",
+    "brand": "Brand 8",
+    "tags": [
+      "tag77",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.971Z",
+    "updatedAt": "2025-09-20T06:10:16.971Z"
+  },
+  {
+    "_id": "krurohx9jmfrvd825",
+    "name": "Product 78",
+    "description": "Description for product 78",
+    "category": "Electronics",
+    "price": 146,
+    "costPrice": 40,
+    "stockQuantity": 126,
+    "sku": "SKU-078",
+    "brand": "Brand 8",
+    "tags": [
+      "tag78",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.973Z",
+    "updatedAt": "2025-09-20T06:10:16.973Z"
+  },
+  {
+    "_id": "6gdthcwzfmfrvd827",
+    "name": "Product 79",
+    "description": "Description for product 79",
+    "category": "Beauty",
+    "price": 391,
+    "costPrice": 41,
+    "stockQuantity": 91,
+    "sku": "SKU-079",
+    "brand": "Brand 8",
+    "tags": [
+      "tag79",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:16.975Z",
+    "updatedAt": "2025-09-20T06:10:16.975Z"
+  },
+  {
+    "_id": "obnrlb4iumfrvd829",
+    "name": "Product 80",
+    "description": "Description for product 80",
+    "category": "Health",
+    "price": 29,
+    "costPrice": 121,
+    "stockQuantity": 786,
+    "sku": "SKU-080",
+    "brand": "Brand 8",
+    "tags": [
+      "tag80",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.977Z",
+    "updatedAt": "2025-09-20T06:10:16.977Z"
+  },
+  {
+    "_id": "917fbb3f0mfrvd82a",
+    "name": "Product 81",
+    "description": "Description for product 81",
+    "category": "Clothing",
+    "price": 476,
+    "costPrice": 13,
+    "stockQuantity": 912,
+    "sku": "SKU-081",
+    "brand": "Brand 9",
+    "tags": [
+      "tag81",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.978Z",
+    "updatedAt": "2025-09-20T06:10:16.978Z"
+  },
+  {
+    "_id": "sgplogt2fmfrvd82d",
+    "name": "Product 82",
+    "description": "Description for product 82",
+    "category": "Home & Garden",
+    "price": 462,
+    "costPrice": 36,
+    "stockQuantity": 772,
+    "sku": "SKU-082",
+    "brand": "Brand 9",
+    "tags": [
+      "tag82",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.981Z",
+    "updatedAt": "2025-09-20T06:10:16.981Z"
+  },
+  {
+    "_id": "n3j33v0v9mfrvd82f",
+    "name": "Product 83",
+    "description": "Description for product 83",
+    "category": "Health",
+    "price": 368,
+    "costPrice": 203,
+    "stockQuantity": 916,
+    "sku": "SKU-083",
+    "brand": "Brand 9",
+    "tags": [
+      "tag83",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.983Z",
+    "updatedAt": "2025-09-20T06:10:16.983Z"
+  },
+  {
+    "_id": "5jttyagkgmfrvd82i",
+    "name": "Product 84",
+    "description": "Description for product 84",
+    "category": "Clothing",
+    "price": 122,
+    "costPrice": 30,
+    "stockQuantity": 409,
+    "sku": "SKU-084",
+    "brand": "Brand 9",
+    "tags": [
+      "tag84",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.986Z",
+    "updatedAt": "2025-09-20T06:10:16.986Z"
+  },
+  {
+    "_id": "gos464yt3mfrvd82l",
+    "name": "Product 85",
+    "description": "Description for product 85",
+    "category": "Health",
+    "price": 56,
+    "costPrice": 126,
+    "stockQuantity": 622,
+    "sku": "SKU-085",
+    "brand": "Brand 9",
+    "tags": [
+      "tag85",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.989Z",
+    "updatedAt": "2025-09-20T06:10:16.989Z"
+  },
+  {
+    "_id": "e6l7s8ki2mfrvd82n",
+    "name": "Product 86",
+    "description": "Description for product 86",
+    "category": "Clothing",
+    "price": 28,
+    "costPrice": 118,
+    "stockQuantity": 340,
+    "sku": "SKU-086",
+    "brand": "Brand 9",
+    "tags": [
+      "tag86",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.991Z",
+    "updatedAt": "2025-09-20T06:10:16.991Z"
+  },
+  {
+    "_id": "ha5mi6oq9mfrvd82p",
+    "name": "Product 87",
+    "description": "Description for product 87",
+    "category": "Automotive",
+    "price": 325,
+    "costPrice": 69,
+    "stockQuantity": 674,
+    "sku": "SKU-087",
+    "brand": "Brand 9",
+    "tags": [
+      "tag87",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.993Z",
+    "updatedAt": "2025-09-20T06:10:16.993Z"
+  },
+  {
+    "_id": "fyb566b28mfrvd82r",
+    "name": "Product 88",
+    "description": "Description for product 88",
+    "category": "Automotive",
+    "price": 157,
+    "costPrice": 42,
+    "stockQuantity": 518,
+    "sku": "SKU-088",
+    "brand": "Brand 9",
+    "tags": [
+      "tag88",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.995Z",
+    "updatedAt": "2025-09-20T06:10:16.995Z"
+  },
+  {
+    "_id": "c09sqld1vmfrvd82s",
+    "name": "Product 89",
+    "description": "Description for product 89",
+    "category": "Home & Garden",
+    "price": 443,
+    "costPrice": 23,
+    "stockQuantity": 986,
+    "sku": "SKU-089",
+    "brand": "Brand 9",
+    "tags": [
+      "tag89",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.996Z",
+    "updatedAt": "2025-09-20T06:10:16.996Z"
+  },
+  {
+    "_id": "hzjx7vwuumfrvd82u",
+    "name": "Product 90",
+    "description": "Description for product 90",
+    "category": "Sports",
+    "price": 70,
+    "costPrice": 60,
+    "stockQuantity": 249,
+    "sku": "SKU-090",
+    "brand": "Brand 9",
+    "tags": [
+      "tag90",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:16.998Z",
+    "updatedAt": "2025-09-20T06:10:16.998Z"
+  },
+  {
+    "_id": "wbijayzblmfrvd82w",
+    "name": "Product 91",
+    "description": "Description for product 91",
+    "category": "Books",
+    "price": 428,
+    "costPrice": 199,
+    "stockQuantity": 331,
+    "sku": "SKU-091",
+    "brand": "Brand 10",
+    "tags": [
+      "tag91",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.000Z",
+    "updatedAt": "2025-09-20T06:10:17.000Z"
+  },
+  {
+    "_id": "cphh2ibn4mfrvd82x",
+    "name": "Product 92",
+    "description": "Description for product 92",
+    "category": "Health",
+    "price": 202,
+    "costPrice": 57,
+    "stockQuantity": 731,
+    "sku": "SKU-092",
+    "brand": "Brand 10",
+    "tags": [
+      "tag92",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.001Z",
+    "updatedAt": "2025-09-20T06:10:17.001Z"
+  },
+  {
+    "_id": "frh7v08jjmfrvd830",
+    "name": "Product 93",
+    "description": "Description for product 93",
+    "category": "Health",
+    "price": 246,
+    "costPrice": 50,
+    "stockQuantity": 46,
+    "sku": "SKU-093",
+    "brand": "Brand 10",
+    "tags": [
+      "tag93",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.004Z",
+    "updatedAt": "2025-09-20T06:10:17.004Z"
+  },
+  {
+    "_id": "p8vw2bhj5mfrvd832",
+    "name": "Product 94",
+    "description": "Description for product 94",
+    "category": "Home & Garden",
+    "price": 397,
+    "costPrice": 144,
+    "stockQuantity": 371,
+    "sku": "SKU-094",
+    "brand": "Brand 10",
+    "tags": [
+      "tag94",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.006Z",
+    "updatedAt": "2025-09-20T06:10:17.006Z"
+  },
+  {
+    "_id": "hjxgnpqkdmfrvd833",
+    "name": "Product 95",
+    "description": "Description for product 95",
+    "category": "Sports",
+    "price": 498,
+    "costPrice": 124,
+    "stockQuantity": 496,
+    "sku": "SKU-095",
+    "brand": "Brand 10",
+    "tags": [
+      "tag95",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.007Z",
+    "updatedAt": "2025-09-20T06:10:17.007Z"
+  },
+  {
+    "_id": "9nmb8glp7mfrvd835",
+    "name": "Product 96",
+    "description": "Description for product 96",
+    "category": "Home & Garden",
+    "price": 23,
+    "costPrice": 83,
+    "stockQuantity": 279,
+    "sku": "SKU-096",
+    "brand": "Brand 10",
+    "tags": [
+      "tag96",
+      "category-tag"
+    ],
+    "isActive": false,
+    "createdAt": "2025-09-20T06:10:17.009Z",
+    "updatedAt": "2025-09-20T06:10:17.009Z"
+  },
+  {
+    "_id": "mh8702jg6mfrvd836",
+    "name": "Product 97",
+    "description": "Description for product 97",
+    "category": "Books",
+    "price": 410,
+    "costPrice": 97,
+    "stockQuantity": 879,
+    "sku": "SKU-097",
+    "brand": "Brand 10",
+    "tags": [
+      "tag97",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.010Z",
+    "updatedAt": "2025-09-20T06:10:17.010Z"
+  },
+  {
+    "_id": "3ee5uwovwmfrvd838",
+    "name": "Product 98",
+    "description": "Description for product 98",
+    "category": "Health",
+    "price": 241,
+    "costPrice": 138,
+    "stockQuantity": 800,
+    "sku": "SKU-098",
+    "brand": "Brand 10",
+    "tags": [
+      "tag98",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.012Z",
+    "updatedAt": "2025-09-20T06:10:17.012Z"
+  },
+  {
+    "_id": "s2k70kpnymfrvd83a",
+    "name": "Product 99",
+    "description": "Description for product 99",
+    "category": "Electronics",
+    "price": 410,
+    "costPrice": 146,
+    "stockQuantity": 913,
+    "sku": "SKU-099",
+    "brand": "Brand 10",
+    "tags": [
+      "tag99",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.014Z",
+    "updatedAt": "2025-09-20T06:10:17.014Z"
+  },
+  {
+    "_id": "i4iw36mjnmfrvd83d",
+    "name": "Product 100",
+    "description": "Description for product 100",
+    "category": "Health",
+    "price": 46,
+    "costPrice": 90,
+    "stockQuantity": 309,
+    "sku": "SKU-100",
+    "brand": "Brand 10",
+    "tags": [
+      "tag100",
+      "category-tag"
+    ],
+    "isActive": true,
+    "createdAt": "2025-09-20T06:10:17.017Z",
+    "updatedAt": "2025-09-20T06:10:17.017Z"
+  }
+]
