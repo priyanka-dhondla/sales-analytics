@@ -55,15 +55,13 @@ app.get("*", (req, res) => {
 });
 
 // Error handler
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).json({
-    error: "Something went wrong!",
-    message:
-      process.env.NODE_ENV === "development"
-        ? err.message
-        : "Internal server error",
-  });
+let isDbConnected = false;
+app.use(async (req, res, next) => {
+  if (!isDbConnected) {
+    await db.connect(process.env.MONGO_URI);
+    isDbConnected = true;
+  }
+  next();
 });
 
 // Connect DB and start server
