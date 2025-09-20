@@ -20,7 +20,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(helmet());
@@ -29,7 +28,18 @@ app.use(morgan("combined"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// API Routes
+// === MongoDB connection middleware ===
+let isDbConnected = false;
+app.use(async (req, res, next) => {
+  if (!isDbConnected) {
+    await db.connect(process.env.MONGO_URI);
+    isDbConnected = true;
+    console.log("✅ MongoDB connected");
+  }
+  next();
+});
+
+// === API Routes ===
 app.use("/api/analytics", analyticsRoutes);
 app.use("/api/orders", ordersRoutes);
 app.use("/api/customers", customersRoutes);
@@ -46,37 +56,21 @@ app.get("/api/health", (req, res) => {
 });
 
 // Serve React frontend (Vite build)
-const frontendBuildPath = path.join(__dirname, "../dist"); // Vite default build folder
+const frontendBuildPath = path.join(__dirname, "../dist");
 app.use(express.static(frontendBuildPath));
 
-// SPA fallback: serve index.html for all other routes
+// SPA fallback for frontend routes
 app.get("*", (req, res) => {
   res.sendFile(path.join(frontendBuildPath, "index.html"));
 });
 
-// Error handler
-let isDbConnected = false;
-app.use(async (req, res, next) => {
-  if (!isDbConnected) {
-    await db.connect(process.env.MONGO_URI);
-    isDbConnected = true;
-  }
-  next();
-});
-
-// Connect DB and start server
-async function startServer() {
-  try {
-    await db.connect(process.env.MONGO_URI);
-    console.log("✅ MongoDB connected");
-    if (process.env.NODE_ENV !== "production") {
-      app.listen(PORT, () =>
-        console.log(`🚀 Server running at http://localhost:${PORT}`)
-      );
-    }
-  } catch (err) {
-    console.error("❌ Server failed to start:", err);
-  }
+// === Local dev server ===
+if (process.env.NODE_ENV !== "production") {
+  const PORT = process.env.PORT || 5000;
+  app.listen(PORT, () => {
+    console.log(`🚀 Local server running at http://localhost:${PORT}`);
+  });
 }
 
-startServer();
+// === Export app for Vercel ===
+export default app;
