@@ -8,13 +8,10 @@ class MongoDatabase {
   }
 
   async connect(uri = process.env.MONGO_URI) {
-    try {
-      this.connection = await mongoose.connect(uri);
-      console.log("✅ MongoDB connected");
-    } catch (err) {
-      console.error("❌ MongoDB connection failed:", err);
-      process.exit(1);
-    }
+    if (this.connection) return this.connection; // Already connected
+    this.connection = await mongoose.connect(uri);
+    console.log("✅ MongoDB connected");
+    return this.connection;
   }
 
   // Get or create a dynamic model for a collection

@@ -71,10 +71,11 @@ async function startServer() {
   try {
     await db.connect(process.env.MONGO_URI);
     console.log("✅ MongoDB connected");
-
-    app.listen(PORT, () =>
-      console.log(`🚀 Server running at http://localhost:${PORT}`)
-    );
+    if (process.env.NODE_ENV !== "production") {
+      app.listen(PORT, () =>
+        console.log(`🚀 Server running at http://localhost:${PORT}`)
+      );
+    }
   } catch (err) {
     console.error("❌ Server failed to start:", err);
   }
